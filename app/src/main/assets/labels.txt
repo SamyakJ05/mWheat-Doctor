@@ -1,0 +1,4 @@
+White Rust
+Brown Rust
+Stem Rust
+Healthy Plant
